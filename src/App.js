@@ -1,5 +1,5 @@
 import {BrowserRouter, Route, Switch, Redirect} from 'react-router-dom'
-import Component from 'react'
+import {Component} from 'react'
 
 import CartContext from './context/CartContext'
 import LoginForm from './components/LoginForm'
